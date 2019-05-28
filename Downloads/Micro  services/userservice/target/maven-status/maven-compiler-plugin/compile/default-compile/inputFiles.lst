@@ -1,0 +1,8 @@
+/home/saranya/Downloads/userservice/src/main/java/com/stackroute/userservice/service/UserServiceImpl.java
+/home/saranya/Downloads/userservice/src/main/java/com/stackroute/userservice/controller/UserController.java
+/home/saranya/Downloads/userservice/src/main/java/com/stackroute/userservice/exceptions/UserAlreadyExistsException.java
+/home/saranya/Downloads/userservice/src/main/java/com/stackroute/userservice/repository/UserRepository.java
+/home/saranya/Downloads/userservice/src/main/java/com/stackroute/userservice/UserServiceApplication.java
+/home/saranya/Downloads/userservice/src/main/java/com/stackroute/userservice/service/UserService.java
+/home/saranya/Downloads/userservice/src/main/java/com/stackroute/userservice/config/WebConfiguration.java
+/home/saranya/Downloads/userservice/src/main/java/com/stackroute/userservice/domain/User.java
